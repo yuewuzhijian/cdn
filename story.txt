@@ -1,0 +1,12 @@
+[
+  {
+    icon: "h3370c3_normal",
+    name: "占卜宗师",
+    text: "你就烂！",
+  },
+  {
+    icon: "h3367c3_anger",
+    name: "青年",
+    text: "我就烂！",
+  },
+]
